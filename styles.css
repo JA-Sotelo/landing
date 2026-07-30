@@ -116,7 +116,7 @@ a:hover {
   cursor: pointer;
   transition: all var(--duration) var(--easing);
   text-decoration: none;
-  white-space: nowrap;
+  white-space: normal;
   gap: var(--spacing-xs);
 }
 
